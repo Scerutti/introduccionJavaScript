@@ -20,14 +20,14 @@ function capToFront(string) {
    // Recibes un string con algunas letras en mayúscula y otras en minúscula.
    // Debes enviar todas las letras en mayúscula al comienzo del string.
    // Retornar el string.
-   // [EJEMPLO]: soyHENRY ---> HENRYsoy
+   // [EJEMPLO]: holaMUNDO ---> MUNDOhola
    // Tu código:
 }
 
 function asAmirror(frase) {
    // Recibes una frase. Tu tarea es retornar un nuevo string en el que el orden de las palabras sea el mismo.
    // La diferencia es que cada palabra estará escrita al inverso.
-   // [EJEMPLO]: "The Henry Challenge is close!"  ---> "ehT yrneH egnellahC si !esolc"
+   // [EJEMPLO]: "The Avivate Challenge is close!"  ---> "ehT etavivA egnellahC si !esolc"
    // Tu código:
 }
 
